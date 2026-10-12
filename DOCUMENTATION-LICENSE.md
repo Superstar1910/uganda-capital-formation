@@ -1,0 +1,1 @@
+Original new framework documentation is licensed under Creative Commons Attribution 4.0 International: https://creativecommons.org/licenses/by/4.0/ . Attribute Oakstone Capital and identify modifications. Archived publications, third-party content/data and Oakstone branding are excluded and retain their respective rights.

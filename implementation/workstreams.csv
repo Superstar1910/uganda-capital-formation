@@ -1,0 +1,11 @@
+id,workstream,candidate_owner_not_appointed,deliverable,failure_test
+1,Governance,MoFPED / proposed NCFC,Charter; role boundaries; public scorecard,Duplicate authority or directed investment
+2,Fiscal leverage and public capital,MoFPED / UDB,Additionality and fiscal exposure ledger,Unfunded contingent liabilities
+3,Arrears resolution,MoFPED / counterparties / counsel,Verified claims and settlement options,Securitising disputed or unaffordable claims
+4,Guarantee architecture,UDB / specialist providers,Demand aggregation and priced risk terms,Counting guarantee face value as investment
+5,Creditworthiness information,BoU / market participants,Ownership; credit; collateral; disclosure,Poor data or unenforceable rights
+6,Capital markets development,CMA / exchanges / issuers,Non-sovereign issuance and refinancing,Issuing before assets and buyers are ready
+7,Pension and institutional capital,Trustees / licensed managers / URBRA,Liability and eligibility tests,Directed allocations or liquidity mismatch
+8,ATMS sector platforms,Sector sponsors / UDB / managers,Screened sector pipelines,Policy priority mistaken for investment merit
+9,Project preparation and infrastructure finance,Existing facilities / specialist advisers,Gate 0–5 investment packs,Costly studies without kill criteria
+10,Legal and market infrastructure,Relevant authorities / counsel / operators,Custody; settlement; valuation; enforcement,New wrappers without functioning infrastructure

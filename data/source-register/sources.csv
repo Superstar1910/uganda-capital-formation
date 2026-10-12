@@ -1,0 +1,9 @@
+source_id,subject,source_url,status,review_date,notes
+STRATEGY,2040 GDP ambition,https://doingbusiness.finance.go.ug/publications/strategies/ten-fold-growth-strategy,verified_strategy_reference,2026-10-13,Approximate USD50bn 2023 to USD500bn 2040; not current baseline
+WDI_GDP,GDP current USD,https://api.worldbank.org/v2/country/UGA/indicator/NY.GDP.MKTP.CD?format=json,retrieval_target,,Validate observations before adoption
+WDI_GCF,Gross capital formation share,https://api.worldbank.org/v2/country/UGA/indicator/NE.GDI.TOTL.ZS?format=json,retrieval_target,,Historical averages require reproduction
+WDI_REAL,Real GDP growth,https://api.worldbank.org/v2/country/UGA/indicator/NY.GDP.MKTP.KD.ZG?format=json,retrieval_target,,Calendar versus fiscal reconciliation required
+UBOS,National accounts,https://www.ubos.org/,retrieval_target,,Locate exact release
+BOU,Financial and external flows,https://www.bou.or.ug/,retrieval_target,,Stocks and flows must remain separate
+URBRA,Pension capital,https://urbra.go.ug/,retrieval_target,,Validate observation and investment limits
+CMA,Capital markets,https://cmauganda.co.ug/,retrieval_target,,Validate issuance and holder overlap

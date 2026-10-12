@@ -1,0 +1,13 @@
+topic,prior_claims,issue,release_treatment
+GDP baseline,Older deck: USD69bn FY2025/26; later strategy: near USD50bn 2023; article: USD62bn 2025,Different observation periods/bases; do not splice,Strategy illustration or explicitly inherited article scenario; refresh actuals
+Growth CAGR,Prior roughly 14–15%; different baselines/years,Recalculate from exact start and elapsed years,Formula output used
+Investment need,Earlier graphics: USD12–15bn annual and USD4–5bn actual; later article: GCF-based ramp,Earlier estimates not consistent with later GCF framework,Earlier graphics archival only
+Cumulative totals,Earlier USD180–220bn or USD225–320bn; article ~USD1.23tn GCF/~USD393bn extra,Different measures; overlapping supply channels,Do not add or merge; reproduce annual series
+Pension/CIS,30.7tn FY2024/25 vs 35.6tn March 2026; CIS 6.02/6.262/7.06tn at different dates,"Dates, definitions and revisions require source reconciliation",No single current deployable total adopted
+Implementation periods,2026–29/2030–34/2035–40 vs 2026–30/2031–35/2036–40,Design versions,Use later five-year cycles; preserve earlier history
+Fund assumptions,USD1bn; 15–21% gross IRR; USD10–25m TA,2019 concept parameters retained in 2026 decks,Legacy illustrative assumptions; not current terms
+Product liquidity,Legacy open-end infrastructure wrapper vs later liquidity safeguards,Growth ambition and redeemability are separate,No assumed daily liquidity against illiquid assets
+Gate numbering,UHIF four readiness gates vs retirement Gate 0–5,Similar functions; distinct numbering,Common Gate 0–5 manual; crosswalk historical designs
+Named project capacity,Experience appendix geothermal 20MW; other session context 10MW,Capacity/stage discrepancy,No capacity published without latest primary project verification
+Role appointments,UDB/Old Mutual/Oakstone/GCIFP contemplated roles,Proposed roles differ from appointments,Carry design roles with explicit proposed status
+90 vs 100 days,National 90-day design vs retirement 100-day diagnostic,Different scope,Retain both scoped plans

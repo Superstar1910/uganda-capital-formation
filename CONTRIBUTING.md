@@ -1,0 +1,2 @@
+# Contributing
+Submit a source-backed correction, reproducible model improvement or anonymised implementation case. Include URL, publication date, observation period, units, definitions, calculation and proposed change. No confidential project information, personal data or unsupported capital commitments. Disclose commercial interests. Maintainers review before release. Open an issue or pull request at https://github.com/Superstar1910/uganda-capital-formation, with evidence and disclosed interests.

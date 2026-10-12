@@ -1,0 +1,3 @@
+# Existing-facility and synergy map
+Review date 13 October 2026. An initial interface map, not a complete Uganda facility census. Official service presence does not establish committed financing, partnerships or current budget availability. Synergies are Oakstone design inferences.
+UDB preparation, ACF, MoFPED project information, PPP mechanisms and Dhamana should be examined before forming duplicative institutions. Complete a mandate/capacity/access interview for each; record whether to refer, co-prepare, contract, integrate or establish a missing function. Wider guarantee and TA mapping remains open.

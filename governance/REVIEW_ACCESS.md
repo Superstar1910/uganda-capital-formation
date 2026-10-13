@@ -1,0 +1,2 @@
+# Inspection and feedback policy
+Requested 13 October 2026. The hosted website offers in-browser inspection and feedback, without download links, export buttons or packaged ZIPs. Underlying source/data are retained for reproducibility. Public GitHub inherently supports copying/cloning and retains prior commits; removing website downloads cannot revoke existing copies or make visible public content uncopyable. No disabled-selection or misleading DRM controls are used. Feedback via Issues and email is not automatically sent by the site.

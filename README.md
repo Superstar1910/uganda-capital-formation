@@ -42,3 +42,8 @@ Code: MIT. New original framework documentation: CC BY 4.0. Archived work, sourc
 
 ## Inspection and feedback
 Live site: https://legesi.xyz/uganda-capital-formation/ . Read methods and data in `dist/inspect.html`. Leave comments/corrections through repository Issues. Website downloads, exports and packaged ZIP have been removed. A public GitHub repository inherently remains cloneable and its visible contents can be copied; this is not technical download prevention.
+
+
+## Expanded research and coverage audit
+
+Read the [research edition](https://legesi.xyz/uganda-capital-formation/research.html) and [coverage audit](https://legesi.xyz/uganda-capital-formation/coverage.html). Source section mapping is in `data/provenance/section-coverage.csv`; primary references and verification depth are in `evidence-register.csv`. Full historical annual macro reconciliation and transaction-specific legal diligence remain open. Confidential originals and unverified credentials are excluded.
